@@ -1,1 +1,0 @@
-const e={key:"v-8daa1a0e",path:"/",title:"",lang:"zh-CN",frontmatter:{home:!0,heroImage:"images/logo.png",actions:[{text:"\u5FEB\u901F\u4E0A\u624B",link:"/guide/"}],footer:"Copyright \xA9 2022-present LanXiao"},excerpt:"",headers:[{level:3,title:"\u5FEB\u901F\u5F00\u59CB",slug:"\u5FEB\u901F\u5F00\u59CB",children:[]}],git:{},filePathRelative:"README.md"};export{e as data};
